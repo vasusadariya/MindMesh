@@ -5,6 +5,7 @@
     "deploy": "wrangler deploy --minify"
   },
   "dependencies": {
+    "@mindmesh/common": "^1.0.0",
     "@prisma/client": "^6.1.0",
     "@prisma/extension-accelerate": "^1.2.1",
     "hono": "^4.6.15",
